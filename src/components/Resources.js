@@ -72,6 +72,11 @@ export function Resources() {
                 JAMstack with Gatsby, Netlify and Netlify CMS
               </a>
             </Li>
+            <Li>
+              <a href="https://buttercms.com/blog/building-a-jamstack-blog-gatsby-and-buttercms-on-netlify">
+                Building a Jamstack Blog: Gatsby and ButterCMS on Netlify
+              </a>
+            </Li>
           </Ul>
         </SubSection>
 
